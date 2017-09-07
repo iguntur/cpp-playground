@@ -23,7 +23,7 @@ $ git clone https://github.com/iguntur/cpp-playground.git
 
 ### Build
 
-We need run to `cmake` command to generate `Makefile` and then running `make` command.
+We need to run `cmake` command to generate `Makefile` and then running `make` command.
 
 ```
 $ cd cpp-playground
